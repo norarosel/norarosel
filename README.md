@@ -1,4 +1,4 @@
-## Hi there 👋
+MSc student in Life Sciences Engineering at École Polytechnique Fédérale de Lausanne.
 
 <!--
 **norarosel/norarosel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
